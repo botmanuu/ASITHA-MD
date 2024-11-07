@@ -13,20 +13,20 @@ function convertToBool(text, fault = 'true') {
 
 if(process.env.GITHUB_AUTH_TOKEN){
 GITHUB_AUTH_TOKEN = process.env.GITHUB_AUTH_TOKEN
-} else {
+} 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 {
 GITHUB_AUTH_TOKEN = envv2.GITHUB_AUTH_TOKEN
 }
 
 if(process.env.GITHUB_USERNAME){
 GITHUB_USERNAME = process.env.GITHUB_USERNAME
-} else {
+} botmanuu {
 GITHUB_USERNAME = envv2.GITHUB_USERNAME
 }
 
 
 if(process.env.SESSION_ID){
 SESSION_ID = process.env.SESSION_ID
-} else {
+} 𝙰𝚂𝙸𝚃𝙷𝙰-𝙼𝙳=inRlxa4I#cqnrSxob-PS-f9QqCDuuO0P6Ko0pr6CSeEeuMCSBSUY {
 SESSION_ID = envv2.SESSION_ID
 }
 
